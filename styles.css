@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+h1 {
+    text-shadow: 1px 1px 2px plum; 
+
+    overflow: hidden;
+    background-color: #121212;
+
+    color: aliceblue;
+
+    padding: 60px 12px;
+
+
+    margin-top: 0;
+    text-align: center;
+    font-size: 70px;
+    line-height: 34px;
+    height: 35px;
+
+    font-family: 'Poppins', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+
+    width: 100%;
+    height: 100%;
+
+    margin: 0;
+    
+    background-color: azure;
+    font-family: 'Poppins', serif;
+    font-size: 48px;
+    text-align: center;
+
+}
+
+
+a {
+
+    text-decoration: ;
+}
